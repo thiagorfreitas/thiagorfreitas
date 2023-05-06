@@ -1,16 +1,8 @@
-# Welcome to my GitHub page!
+## Welcome to my GitHub page!
 My name is Thiago, and I am currently working as an OutSystems Developer and a Software Engineering student at the University of Brasília. I am passionate about software development and always looking for new challenges and opportunities to learn and grow.
 
 ## Skills
 I have experience with the following programming languages and technologies:
-
-Dart
-Flutter
-C
-Python
-JavaScript
-HTML5
-CSS3
                                                                                                                                                    
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
