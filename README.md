@@ -14,7 +14,7 @@ I have experience with the following programming languages and technologies:
 
 </div>
 
-##
+## Contact
 
 <div align="center">
   <a href = "mailto:thiagoribeirofreitas2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
