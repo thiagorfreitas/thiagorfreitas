@@ -1,6 +1,5 @@
 ## Welcome to my GitHub page!
-My name is Thiago, and I am currently working as an OutSystems Developer and a Software Engineering student at the University of Brasília. I am passionate about software development and always looking for new challenges and opportunities to learn and grow.
-
+Currently Majoring in Software Engineering at University of Brasília and a Certficated OutSystems Developer, with years of experience with the platform, and with mutiple interests in technology. I currently work mostly developing Reactive Web applications with Outsystems ( Low-code Platform). Beyond that, I have knowledge in traditional languages such as C, C++, Dart, PHP, JavaScript, JQuery and Python. I have worked with frameworks such as Flutter in the past to develop Mobile Applications. Furthermore, I used in the past MySQL and BaaS, such as Google Firebase in a few apps. Other than that I am fluent in both english and portuguese and I am always available to learn and grow professionally.
 ## Skills
                                                                                                                                                    
 <div style="display: inline_block" align="center"><br>
